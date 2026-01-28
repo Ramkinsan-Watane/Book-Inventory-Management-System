@@ -1,0 +1,104 @@
+/* BookDetails.css */
+
+.container11 {
+  padding: 30px 20px;
+  background-color: #f4f7fa;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card11 {
+  background: white;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+  border-radius: 15px;
+  padding: 30px 40px;
+  max-width: 600px;
+  width: 100%;
+  box-sizing: border-box;
+  transition: transform 0.2s ease;
+}
+
+.card11:hover {
+  transform: translateY(-8px);
+}
+
+.title11 {
+  margin-bottom: 25px;
+  font-weight: 700;
+  color: #333;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+.image11 {
+  width: 100%;
+  height: 320px;
+  object-fit: cover;
+  border-radius: 12px;
+  margin-bottom: 25px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.image11:hover {
+  transform: scale(1.05);
+}
+
+.text11 {
+  font-size: 1rem;
+  color: #444;
+  margin: 10px 0;
+  line-height: 1.5;
+}
+
+.text11 b {
+  color: #222;
+  font-weight: 600;
+  width: 140px;
+  display: inline-block;
+}
+
+.label11 {
+  margin-top: 15px;
+  font-weight: 600;
+  color: #222;
+}
+
+.description11 {
+  margin-top: 10px;
+  padding-left: 12px;
+  border-left: 4px solid #4a90e2;
+  color: #555;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.button11 {
+  background-color: #4a90e2;
+  color: #fff;
+  border: none;
+  padding: 14px 0;
+  border-radius: 10px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  width: 100%;
+  margin-top: 30px;
+  transition: background-color 0.3s ease;
+  box-shadow: 0 4px 12px rgba(74, 144, 226, 0.5);
+}
+
+.button11:hover {
+  background-color: #357abd;
+  box-shadow: 0 6px 20px rgba(53, 122, 189, 0.6);
+}
+
+.loading11 {
+  text-align: center;
+  font-size: 1.2rem;
+  padding: 40px;
+  color: #555;
+}

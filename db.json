@@ -1,0 +1,213 @@
+{
+  "books": [
+    {
+      "id": "2",
+      "title": "Advanced React Patterns",
+      "author": "Kent C. Dodds",
+      "email": "kent@react.com",
+      "age": 38,
+      "publisher": "Frontend Masters",
+      "publishedDate": "2022-06-15",
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*x0d41ns8PTQZz4a3VbMrBg.png",
+      "description": "This book delves into advanced React patterns, including compound components and controlled vs uncontrolled components. It explores custom hooks for code reuse and improving logic separation. The author covers performance optimization using memoization techniques like React.memo and useCallback. It explains context API usage for state management across components. Readers learn about render props and higher-order components. Error boundaries and suspense for data fetching are also covered. The book provides real-world examples demonstrating best practices. It's ideal for intermediate to advanced React developers seeking to write cleaner and more scalable code."
+    },
+    {
+      "id": "3",
+      "title": "Learning JavaScript",
+      "author": "Kyle Simpson",
+      "email": "kyle@js.com",
+      "age": 40,
+      "publisher": "O'Reilly",
+      "publishedDate": "2021-09-10",
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*x0d41ns8PTQZz4a3VbMrBg.png",
+      "description": "This book covers the fundamentals of JavaScript, starting with variables, data types, and control structures. It explores scope and closures to explain how variables are accessed and preserved. The book explains asynchronous programming with callbacks, promises, and async/await. Functions and object-oriented programming principles are discussed in detail. Readers gain insight into prototype chains and inheritance. It covers error handling and debugging techniques. ES6+ features such as arrow functions and destructuring are included. The book emphasizes understanding JavaScript’s quirks to write robust code. Exercises help reinforce learning for beginners and intermediate developers."
+    },
+    {
+      "id": "4",
+      "title": "Node.js Complete Guide",
+      "author": "Andrew Mead",
+      "email": "andrew@node.com",
+      "age": 37,
+      "publisher": "Udemy",
+      "publishedDate": "2022-03-20",
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*x0d41ns8PTQZz4a3VbMrBg.png",
+      "description": "This comprehensive guide covers Node.js fundamentals and building server-side applications. It explains event-driven architecture and asynchronous programming in Node. Readers learn to work with Express for routing and middleware. The book covers creating RESTful APIs, handling requests, and managing responses. Database integration with MongoDB and Mongoose is included. Security practices such as authentication and authorization are discussed. Testing and debugging Node.js applications are also covered. Deployment strategies and environment configuration are explained. Practical projects help solidify concepts for developers building backend solutions."
+    },
+    {
+      "id": "5",
+      "title": "MongoDB Essentials",
+      "author": "Sarah Johnson",
+      "email": "sarah@mongo.com",
+      "age": 34,
+      "publisher": "Packt",
+      "publishedDate": "2021-11-05",
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*x0d41ns8PTQZz4a3VbMrBg.png",
+      "description": "This book introduces MongoDB, a NoSQL document database, focusing on its flexible schema design. Readers learn to perform CRUD operations efficiently. Indexing strategies and query optimization are explained to improve performance. The book covers data modeling techniques for various use cases. Aggregation framework and pipeline stages are detailed for complex queries. It includes replication and sharding for high availability and scalability. Security features such as authentication and authorization are discussed. Backup and restore procedures are explained. Practical examples demonstrate working with MongoDB in real-world applications."
+    },
+    {
+      "id": "6",
+      "title": "HTML & CSS Mastery",
+      "author": "Jon Duckett",
+      "email": "jon@web.com",
+      "age": 42,
+      "publisher": "Wiley",
+      "publishedDate": "2020-07-18",
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*x0d41ns8PTQZz4a3VbMrBg.png",
+      "description": "This book teaches the fundamentals of HTML and CSS for building modern web pages. It covers semantic HTML5 elements and structuring content effectively. CSS basics include selectors, properties, and box model concepts. Readers learn layout techniques using flexbox and grid systems. Responsive design principles ensure web pages adapt to different screen sizes. The book covers typography, colors, and styling for better user experience. CSS animations and transitions are introduced for dynamic effects. Best practices for writing clean and maintainable code are emphasized. The book is ideal for beginners aiming to create attractive websites."
+    },
+    {
+      "id": "7",
+      "title": "TypeScript in Depth",
+      "author": "Basarat Ali",
+      "email": "basarat@ts.com",
+      "age": 39,
+      "publisher": "Self Published",
+      "publishedDate": "2022-01-30",
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*x0d41ns8PTQZz4a3VbMrBg.png",
+      "description": "This book provides an in-depth look at TypeScript, a typed superset of JavaScript. It explains static typing concepts and benefits. Readers learn to define interfaces and use generics for reusable components. The book covers advanced types, type guards, and assertion techniques. It explains integration with popular frameworks and tools. Configuration options and compiler settings are detailed. The book highlights best practices for writing scalable and maintainable code. It includes practical examples and common patterns. Ideal for developers transitioning from JavaScript to TypeScript."
+    },
+    {
+      "id": "8",
+      "title": "Full Stack Web Development",
+      "author": "Brad Traversy",
+      "email": "brad@traversy.com",
+      "age": 36,
+      "publisher": "Traversy Media",
+      "publishedDate": "2023-04-12",
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*x0d41ns8PTQZz4a3VbMrBg.png",
+      "description": "This book covers end-to-end full stack web development using React for frontend and Node.js for backend. It explains setting up the development environment and tools. Readers learn to build RESTful APIs and connect them to React interfaces. The book covers state management, routing, and authentication. Database integration and deployment techniques are included. It emphasizes best practices for security and performance. Testing strategies for both frontend and backend are discussed. Practical projects guide readers through real-world application building. Suitable for developers wanting to master full stack development."
+    },
+    {
+      "id": "9",
+      "title": "JavaScript Design Patterns",
+      "author": "Addy Osmani",
+      "email": "addy@js.com",
+      "age": 41,
+      "publisher": "O'Reilly",
+      "publishedDate": "2021-05-22",
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*x0d41ns8PTQZz4a3VbMrBg.png",
+      "description": "This book introduces modern JavaScript design patterns and best practices. Readers learn common patterns such as module, observer, singleton, and factory. It explains how to use patterns to write maintainable and scalable code. The book discusses object-oriented and functional programming techniques. It covers organizing code for readability and reuse. Examples demonstrate pattern implementations in real projects. The author emphasizes performance considerations and anti-patterns. The book is suitable for intermediate to advanced JavaScript developers. Practical advice helps improve code architecture."
+    },
+    {
+      "id": "10",
+      "title": "Web Performance Optimization",
+      "author": "Ilya Grigorik",
+      "email": "ilya@web.com",
+      "age": 39,
+      "publisher": "Google",
+      "publishedDate": "2020-10-10",
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*x0d41ns8PTQZz4a3VbMrBg.png",
+      "description": "This book focuses on techniques to optimize web performance and improve loading speed. It explains browser rendering and critical rendering path. Readers learn about resource prioritization and lazy loading. The book covers caching strategies and Content Delivery Networks (CDNs). It discusses minimizing HTTP requests and optimizing images. Tools for performance measurement and analysis are introduced. Best practices for JavaScript and CSS optimization are included. The book emphasizes mobile performance and user experience. Practical tips help developers build fast, responsive websites."
+    },
+    {
+      "id": "11",
+      "title": "CSS Secrets",
+      "author": "Lea Verou",
+      "email": "lea@css.com",
+      "age": 37,
+      "publisher": "O'Reilly",
+      "publishedDate": "2019-08-15",
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*x0d41ns8PTQZz4a3VbMrBg.png",
+      "description": "This book reveals advanced CSS techniques for creating stunning visual effects. It covers secrets behind gradients, shadows, and transitions. Readers learn about CSS variables and custom properties. The book explains layout tricks with flexbox and grid. It includes tips on typography and responsive design. The author shares performance optimization methods. Best practices for maintainable and scalable CSS are discussed. The book is packed with practical examples and demos. Ideal for front-end developers aiming to enhance their CSS skills."
+    },
+    {
+      "id": "12",
+      "title": "React Testing Guide",
+      "author": "Robin Wieruch",
+      "email": "robin@react.com",
+      "age": 35,
+      "publisher": "Leanpub",
+      "publishedDate": "2022-02-11",
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*x0d41ns8PTQZz4a3VbMrBg.png",
+      "description": "This book teaches testing React applications using Jest and Testing Library. It covers writing unit tests for components and hooks. Readers learn to mock dependencies and simulate events. The book explains integration and end-to-end testing strategies. It emphasizes testing best practices and test-driven development. Debugging and coverage measurement are discussed. The author provides practical examples to write reliable tests. The book is ideal for React developers wanting to improve code quality and maintainability."
+    },
+    {
+      "id": "13",
+      "title": "Clean Code JavaScript",
+      "author": "Robert C. Martin",
+      "email": "unclebob@clean.com",
+      "age": 50,
+      "publisher": "Prentice Hall",
+      "publishedDate": "2018-09-01",
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*x0d41ns8PTQZz4a3VbMrBg.png",
+      "description": "This book focuses on writing clean, readable, and maintainable JavaScript code. It covers naming conventions and function design. Readers learn to write small, focused functions and avoid code duplication. The book explains code formatting and commenting practices. It discusses error handling and testing principles. Refactoring techniques for improving legacy code are included. The author emphasizes the importance of simplicity and clarity. The book is a must-read for developers aiming to improve code quality. Practical examples and guidelines support effective coding habits."
+    },
+    {
+      "id": "14",
+      "title": "System Design Basics",
+      "author": "Alex Xu",
+      "email": "alex@system.com",
+      "age": 34,
+      "publisher": "ByteByteGo",
+      "publishedDate": "2022-12-05",
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*x0d41ns8PTQZz4a3VbMrBg.png",
+      "description": "This book introduces fundamental system design concepts for building scalable applications. It covers load balancing, caching, and database scaling. Readers learn about data partitioning and replication techniques. The book explains designing for high availability and fault tolerance. It discusses microservices architecture and API design. Security and monitoring considerations are included. The author provides real-world examples and interview tips. It is suitable for developers preparing for technical interviews and system architects. The book emphasizes practical approaches to complex system design challenges."
+    },
+    {
+      "id": "15",
+      "title": "REST API Development",
+      "author": "Mark Masse",
+      "email": "mark@api.com",
+      "age": 45,
+      "publisher": "O'Reilly",
+      "publishedDate": "2021-06-09",
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*x0d41ns8PTQZz4a3VbMrBg.png",
+      "description": "This book covers best practices for designing and developing RESTful APIs. It explains resource modeling and URL design principles. Readers learn HTTP methods and status codes for effective communication. The book discusses authentication, authorization, and security practices. It covers versioning strategies and error handling. Documentation techniques and tools are included. The author emphasizes API usability and maintainability. Practical examples demonstrate API design patterns. Ideal for backend developers and API architects."
+    },
+    {
+      "id": "16",
+      "title": "GraphQL for Beginners",
+      "author": "Eve Porcello",
+      "email": "eve@graphql.com",
+      "age": 36,
+      "publisher": "Pragmatic Bookshelf",
+      "publishedDate": "2020-11-20",
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*x0d41ns8PTQZz4a3VbMrBg.png",
+      "description": "This book introduces GraphQL, an alternative to REST APIs, focusing on query language and schema design. Readers learn to define types, queries, and mutations. The book covers setting up a GraphQL server and integrating it with frontend clients. It explains how GraphQL improves data fetching efficiency and flexibility. Authentication and authorization mechanisms are discussed. The author includes practical examples and real-world use cases. The book is suitable for developers new to GraphQL wanting to build modern APIs. It emphasizes best practices for scalable API design."
+    },
+    {
+      "id": "17",
+      "title": "Docker & Kubernetes",
+      "author": "Nigel Poulton",
+      "email": "nigel@devops.com",
+      "age": 44,
+      "publisher": "O'Reilly",
+      "publishedDate": "2021-04-14",
+      "image": "https://via.placeholder.com/150/0db7ed/ffffff?text=Docker",
+      "description": "This book covers containerization fundamentals using Docker and orchestration with Kubernetes. Readers learn to build, run, and manage Docker containers. The book explains Docker images, volumes, and networking. Kubernetes concepts such as pods, deployments, and services are detailed. It covers cluster architecture and scaling applications. The author discusses continuous integration and delivery with containers. Security best practices and monitoring are included. Practical examples guide readers through containerizing applications and deploying them in Kubernetes clusters."
+    },
+    {
+      "id": "18",
+      "title": "DevOps Handbook",
+      "author": "Gene Kim",
+      "email": "gene@devops.com",
+      "age": 48,
+      "publisher": "IT Revolution",
+      "publishedDate": "2019-10-01",
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*x0d41ns8PTQZz4a3VbMrBg.png",
+      "description": "This handbook explains DevOps principles and practices for improving collaboration between development and operations teams. It covers continuous integration, continuous delivery, and infrastructure as code. Readers learn about automation, monitoring, and feedback loops. The book discusses cultural changes required for successful DevOps adoption. It provides case studies from industry leaders. Security integration and compliance are included. The author emphasizes measuring performance and optimizing workflows. The book is a valuable resource for organizations seeking to enhance software delivery and reliability."
+    },
+    {
+      "id": "19",
+      "title": "Next.js in Action",
+      "author": "Lee Robinson",
+      "email": "lee@nextjs.com",
+      "age": 33,
+      "publisher": "Vercel",
+      "publishedDate": "2023-03-18",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbjj4dWXlG7Tv4im7rZfdC3FsbEgoUj_woiw&s",
+      "description": "This book teaches building production-ready applications using Next.js, a React framework. It covers server-side rendering, static site generation, and incremental static regeneration. Readers learn routing, API routes, and middleware. The book explains deployment on platforms like Vercel. Performance optimization and SEO best practices are discussed. Authentication and state management techniques are included. It features practical projects to help readers build real-world apps. The book is ideal for React developers wanting to leverage Next.js features for modern web apps."
+    },
+    {
+      "id": "20",
+      "title": "Frontend Architecture",
+      "author": "Addy Osmani",
+      "email": "addy@frontend.com",
+      "age": 41,
+      "publisher": "Google",
+      "publishedDate": "2022-08-25",
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*x0d41ns8PTQZz4a3VbMrBg.png",
+      "description": "This book discusses scalable frontend architecture principles and best practices. It covers modular code organization and component design. Readers learn state management strategies and performance optimization techniques. The book explains build tools, bundlers, and code splitting. Testing and automation in frontend projects are included. It discusses maintainability and collaboration in large teams. The author shares insights on progressive web apps and accessibility. Practical examples demonstrate architectural decisions. Ideal for frontend developers aiming to build robust, scalable applications."
+    }
+  ]
+}
